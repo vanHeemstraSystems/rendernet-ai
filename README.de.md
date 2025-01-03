@@ -1,8 +1,8 @@
-Repository-Name
+Rendernetze
 
-# Repository-Name
+# RenderNet AI
 
-> Slugline
+> Erwecken Sie Geschichten mit KI-Charakteren zum Leben: Nutzen Sie die Kraft der KI, um atemberaubende Bilder und Videos mit Ihren eigenen, maßgeschneiderten virtuellen Menschen zu erstellen.
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
@@ -31,6 +31,6 @@ Sehen[README.md](./200/README.md)
 
 Sehen[README.md](./300/README.md)
 
-## 400 – Fazit
+## 400 - Conclusion
 
 Sehen[README.md](./400/README.md)
