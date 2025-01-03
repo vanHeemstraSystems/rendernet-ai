@@ -17,7 +17,7 @@ rendernetten
 
 Creëer onmiddellijk unieke karakters. Genereer hyperrealistische karakters in afbeeldingen en video's en zorg tegelijkertijd voor een consistent uiterlijk, stijl en kenmerken
 
-Generated with [Ritr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
