@@ -1,4 +1,4 @@
-rendernet-ai
+renders
 
 # RenderNet AI
 
@@ -19,15 +19,15 @@ Crea personajes únicos, al instante. Genere personajes hiperrealistas en imáge
 
 Generado con[ritr](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Introducción
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Requisitos
 
 Ver[README.md](./200/README.md)
 
-## 300 - Construyendo nuestra aplicación
+## 300 - Building Our Application
 
 Ver[README.md](./300/README.md)
 
