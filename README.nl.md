@@ -29,7 +29,7 @@ Zien[README.md](./200/README.md)
 
 ## 300 - Onze applicatie bouwen
 
-See [README.md](./300/README.md)
+Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
