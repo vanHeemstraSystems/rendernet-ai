@@ -13,7 +13,7 @@
 -   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
-**执行摘要**
+**Executive Summary**
 
 立即创建独特的角色。在图像和视频中生成超现实的角色，同时确保一致的外观、风格和功能
 
