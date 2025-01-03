@@ -5,8 +5,8 @@
 > एआई पात्रों के साथ कहानियों को जीवंत बनाएं: अपने स्वयं के कस्टम-डिज़ाइन किए गए आभासी मनुष्यों द्वारा अभिनीत आश्चर्यजनक छवियां और वीडियो बनाने के लिए एआई की शक्ति को अनलॉक करें।
 
 -   [डीएनएस](./DNS.md)
--   [प्रलेखन](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Documentation](./DOCUMENTATION.md)
+-   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
@@ -27,9 +27,9 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - हमारे एप्लिकेशन का निर्माण
 
-See [README.md](./300/README.md)
+देखना[README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
