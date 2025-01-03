@@ -38,6 +38,12 @@ From the ```Design your character``` dialogue window, set Style to **Realistic**
 
 ![Create_New_Character_006](https://github.com/user-attachments/assets/50c325c9-3705-4646-8c4b-6cb37a7973bd)
 
-Click **Next**
+Click **Next**.
+
+We are limited to 10 characters as the length of a name for the character, hence we set it to **WvHeemstra**. 
+
+![Create_New_Character_007](https://github.com/user-attachments/assets/5de67b71-b396-42e4-98a0-0bd0f802d665)
+
+Click **Save**.
 
 MORE ...
