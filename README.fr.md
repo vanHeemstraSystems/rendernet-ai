@@ -6,20 +6,20 @@ rendernet-ai
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossaire](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
 -   [Tamisé](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
 Créez des personnages uniques, instantanément. Générez des personnages hyperréalistes dans des images et des vidéos tout en garantissant une apparence, un style et des fonctionnalités cohérents
 
 Généré avec[Ritr](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
@@ -33,4 +33,4 @@ Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-See [README.md](./400/README.md)
+Voir[README.md](./400/README.md)
