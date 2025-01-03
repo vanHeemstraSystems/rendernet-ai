@@ -34,6 +34,10 @@ As our face fits neatly in the frame, we can forego the cropping, and continue b
 
 ![Create_New_Character_005](https://github.com/user-attachments/assets/07ce3330-bc53-4a5b-a115-c26ec2d37f4a)
 
+From the ```Design your character``` dialogue window, set Style to **Realistic**, Gender to **Man**, Age to **Middle-Aged**, and Hair Type & Color to **Short** and **Black** (as Grey is not an option provided).
 
+![Create_New_Character_006](https://github.com/user-attachments/assets/50c325c9-3705-4646-8c4b-6cb37a7973bd)
+
+Click **Next**
 
 MORE ...
