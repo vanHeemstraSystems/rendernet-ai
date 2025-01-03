@@ -15,21 +15,21 @@
 
 **कार्यकारी सारांश**
 
-Create unique characters, instantly. Generate hyper-realistic characters in images and videos while ensuring consistent appearance, style and features
+तुरन्त अद्वितीय पात्र बनाएँ। सुसंगत उपस्थिति, शैली और सुविधाओं को सुनिश्चित करते हुए छवियों और वीडियो में अति-यथार्थवादी वर्ण उत्पन्न करें
 
 के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - आवश्यकताएँ
 
 देखना[README.md](./200/README.md)
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
-देखना[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
