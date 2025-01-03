@@ -1,4 +1,4 @@
-rendernet-ai
+रेंडरनेट्स
 
 # रेंडरनेट एआई
 
@@ -6,7 +6,7 @@ rendernet-ai
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
--   [शब्दकोष](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
@@ -17,7 +17,7 @@ rendernet-ai
 
 तुरन्त अद्वितीय पात्र बनाएँ। सुसंगत उपस्थिति, शैली और सुविधाओं को सुनिश्चित करते हुए छवियों और वीडियो में अति-यथार्थवादी वर्ण उत्पन्न करें
 
-Generated with [रित्र](https://app.rytr.me)
+के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
@@ -25,11 +25,11 @@ Generated with [रित्र](https://app.rytr.me)
 
 ## 200 - आवश्यकताएँ
 
-See [README.md](./200/README.md)
+देखना[README.md](./200/README.md)
 
-## 300 - हमारे एप्लिकेशन का निर्माण
+## 300 - Building Our Application
 
-देखना[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
