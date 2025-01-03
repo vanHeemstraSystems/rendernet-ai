@@ -5,9 +5,9 @@ rendernetten
 > Breng verhalen tot leven met AI-personages: ontgrendel de kracht van AI om verbluffende afbeeldingen en video's te maken met uw eigen, speciaal ontworpen virtuele mensen in de hoofdrol.
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [Gastheren](./HOSTS.md)
 -   [Afbeeldingen](./IMAGES.md)
 -   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
@@ -15,9 +15,9 @@ rendernetten
 
 **Samenvatting**
 
-Create unique characters, instantly. Generate hyper-realistic characters in images and videos while ensuring consistent appearance, style and features
+Creëer onmiddellijk unieke karakters. Genereer hyperrealistische karakters in afbeeldingen en video's en zorg tegelijkertijd voor een consistent uiterlijk, stijl en kenmerken
 
-Gegenereerd met[Rytr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
@@ -31,6 +31,6 @@ Zien[README.md](./200/README.md)
 
 Zien[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - Conclusie
 
 Zien[README.md](./400/README.md)
