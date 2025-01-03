@@ -5,7 +5,7 @@ rendernets
 > اجعل القصص تنبض بالحياة باستخدام شخصيات الذكاء الاصطناعي: أطلق العنان لقوة الذكاء الاصطناعي لإنشاء صور ومقاطع فيديو مذهلة من بطولة البشر الافتراضيين المصممين خصيصًا لك.
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
@@ -31,6 +31,6 @@ rendernets
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخاتمة
+## 400 - Conclusion
 
 يرى[README.md](./400/README.md)
