@@ -30,4 +30,10 @@ As we have not yet uploaded our face, the ```Image asset library``` will not yet
 
 ![Create_New_Character_004](https://github.com/user-attachments/assets/a1fb33db-11ea-4756-8026-b5e3aba6ea2e)
 
+As our face fits neatly in the frame, we can forego the cropping, and continue by pressing **Next**:
+
+![Create_New_Character_005](https://github.com/user-attachments/assets/07ce3330-bc53-4a5b-a115-c26ec2d37f4a)
+
+
+
 MORE ...
