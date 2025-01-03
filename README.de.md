@@ -6,7 +6,7 @@ Rendernetze
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossar](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
@@ -25,7 +25,7 @@ Sehen[README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
-Sehen[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
