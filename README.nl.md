@@ -1,4 +1,4 @@
-rendernet-ai
+rendernetten
 
 # RenderNet AI
 
