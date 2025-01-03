@@ -6,7 +6,7 @@ rendernets
 
 -   [DNS](./DNS.md)
 -   [التوثيق](./DOCUMENTATION.md)
--   [مسرد](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
