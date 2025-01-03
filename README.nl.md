@@ -1,8 +1,8 @@
-repositorynaam
+rendernetten
 
-# Naam van opslagplaats
+# RenderNet AI
 
-> Slaklijn
+> Breng verhalen tot leven met AI-personages: ontgrendel de kracht van AI om verbluffende afbeeldingen en video's te maken met uw eigen, speciaal ontworpen virtuele mensen in de hoofdrol.
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -23,7 +23,7 @@ Gegenereerd met[Ritr](https://app.rytr.me)
 
 Zien[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Vereisten
 
 Zien[README.md](./200/README.md)
 
