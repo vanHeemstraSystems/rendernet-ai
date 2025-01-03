@@ -1,14 +1,14 @@
-存储库名称
+渲染网
 
-# 存储库名称
+# 渲染网人工智能
 
-> 斯拉格莱恩
+> 通过 AI 角色让故事生动起来：释放 AI 的力量，创建由您自己定制的虚拟人物主演的令人惊叹的图像和视频。
 
 -   [域名系统](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [主办方](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
