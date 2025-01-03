@@ -18,6 +18,10 @@ When prompted, choose **Start with a face**:
 
 ![Create_New_Character_002](https://github.com/user-attachments/assets/dc8ced75-3014-4764-9878-b3eafe5d24ef)
 
+Pick a face, in our case our own face:
+
+![Willem_van_Heemstra_Face](https://github.com/user-attachments/assets/ccccdc8a-8dd4-40d0-ba93-b122e5778181)
+
 
 
 MORE ...
