@@ -1,6 +1,6 @@
 nombre-repositorio
 
-# Repository Name
+# Nombre del repositorio
 
 > línea de bala
 
@@ -17,7 +17,7 @@ nombre-repositorio
 
 Texto
 
-Generado con[ritr](https://app.rytr.me)
+Generated with [ritr](https://app.rytr.me)
 
 ## 100 - Introducción
 
