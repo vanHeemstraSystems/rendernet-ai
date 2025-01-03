@@ -7,13 +7,13 @@
 -   [域名系统](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [主办方](./HOSTS.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
-**Executive Summary**
+**执行摘要**
 
 立即创建独特的角色。在图像和视频中生成超现实的角色，同时确保一致的外观、风格和功能
 
