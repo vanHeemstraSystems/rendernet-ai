@@ -1,4 +1,4 @@
-rendernet-ai
+rendernetten
 
 # RenderNet AI
 
@@ -17,7 +17,7 @@ rendernet-ai
 
 Creëer onmiddellijk unieke karakters. Genereer hyperrealistische karakters in afbeeldingen en video's en zorg tegelijkertijd voor een consistent uiterlijk, stijl en kenmerken
 
-Gegenereerd met[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
