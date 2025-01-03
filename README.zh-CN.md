@@ -8,7 +8,7 @@
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [主办方](./HOSTS.md)
--   [图片](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
@@ -17,7 +17,7 @@
 
 文本
 
-生成于[Rytr](https://app.rytr.me)
+生成于[里特尔](https://app.rytr.me)
 
 ## 100 - 简介
 
