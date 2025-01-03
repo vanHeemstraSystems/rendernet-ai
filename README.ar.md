@@ -9,11 +9,11 @@ rendernets
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
--   [Podman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [مهزوما](./PODMAN.md)
+-   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**ملخص تنفيذي**
+**Executive Summary**
 
 قم بإنشاء شخصيات فريدة على الفور. قم بإنشاء شخصيات واقعية للغاية في الصور ومقاطع الفيديو مع ضمان المظهر والأسلوب والميزات المتسقة
 
