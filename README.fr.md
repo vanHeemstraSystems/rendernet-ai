@@ -1,8 +1,8 @@
-nom du référentiel
+rendernet-ai
 
-# Nom du référentiel
+# RenderNet AI
 
-> Slugline
+> Donnez vie aux histoires avec des personnages IA : débloquez la puissance de l’IA pour créer des images et des vidéos époustouflantes mettant en vedette vos propres humains virtuels conçus sur mesure.
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
