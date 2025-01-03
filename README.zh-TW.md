@@ -2,7 +2,7 @@
 
 # 渲染網人工智慧
 
-> Bring stories alive with AI characters: Unlock the power of AI to create stunning images and videos starring your own custom-designed virtual humans.
+> 透過 AI 角色讓故事生動起來：釋放 AI 的力量，創建由您自己定制的虛擬人物主演的令人驚嘆的圖像和影片。
 
 -   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
@@ -21,7 +21,7 @@
 
 ## 100 - 簡介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
