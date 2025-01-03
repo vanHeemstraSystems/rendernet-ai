@@ -9,9 +9,9 @@ Rendernetze
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [Gedämpft](./PODMAN.md)
--   [Referenzen](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Podman](./PODMAN.md)
+-   [References](./REFERENCES.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
 
