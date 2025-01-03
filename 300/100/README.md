@@ -14,6 +14,10 @@ Choose **Create new** when selecting a character:
 
 ![Create_New_Character_001](https://github.com/user-attachments/assets/98f3a6d4-fe73-4c45-80e5-55ad98fbde13)
 
+When prompted, choose **Start with a face**:
+
+![Create_New_Character_002](https://github.com/user-attachments/assets/dc8ced75-3014-4764-9878-b3eafe5d24ef)
+
 
 
 MORE ...
