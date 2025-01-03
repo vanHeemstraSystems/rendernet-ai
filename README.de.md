@@ -1,4 +1,4 @@
-rendernet-ai
+Rendernetze
 
 # RenderNet AI
 
@@ -6,7 +6,7 @@ rendernet-ai
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
@@ -15,7 +15,7 @@ rendernet-ai
 
 **Zusammenfassung**
 
-Create unique characters, instantly. Generate hyper-realistic characters in images and videos while ensuring consistent appearance, style and features
+Erstellen Sie sofort einzigartige Charaktere. Generieren Sie hyperrealistische Charaktere in Bildern und Videos und achten Sie dabei auf ein einheitliches Erscheinungsbild, einen einheitlichen Stil und einheitliche Funktionen
 
 Erstellt mit[Ritr](https://app.rytr.me)
 
