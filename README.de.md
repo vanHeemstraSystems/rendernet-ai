@@ -1,11 +1,11 @@
-Rendernetze
+rendernet-ai
 
 # RenderNet AI
 
 > Erwecken Sie Geschichten mit KI-Charakteren zum Leben: Nutzen Sie die Kraft der KI, um atemberaubende Bilder und Videos mit Ihren eigenen, maßgeschneiderten virtuellen Menschen zu erstellen.
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
@@ -29,7 +29,7 @@ Sehen[README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
-Sehen[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 – Fazit
 
