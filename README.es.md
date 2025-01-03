@@ -1,8 +1,8 @@
-nombre-repositorio
+renders
 
-# Nombre del repositorio
+# RenderNet AI
 
-> línea de bala
+> Da vida a las historias con personajes de IA: desbloquea el poder de la IA para crear impresionantes imágenes y vídeos protagonizados por tus propios humanos virtuales diseñados a medida.
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
