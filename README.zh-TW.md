@@ -1,10 +1,10 @@
 渲染網
 
-# 渲染網人工智慧
+# RenderNet AI
 
 > 透過 AI 角色讓故事生動起來：釋放 AI 的力量，創建由您自己定制的虛擬人物主演的令人驚嘆的圖像和影片。
 
--   [域名系統](./DNS.md)
+-   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主辦單位](./HOSTS.md)
