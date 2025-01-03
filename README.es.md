@@ -15,7 +15,7 @@ renders
 
 **Resumen ejecutivo**
 
-Crea personajes únicos, al instante. Genere personajes hiperrealistas en imágenes y videos mientras garantiza una apariencia, estilo y características consistentes.
+Crea personajes únicos, al instante. Genere personajes hiperrealistas en imágenes y videos al mismo tiempo que garantiza una apariencia, estilo y características consistentes.
 
 Generado con[ritr](https://app.rytr.me)
 
@@ -27,9 +27,9 @@ Ver[README.md](./100/README.md)
 
 Ver[README.md](./200/README.md)
 
-## 300 - Construyendo nuestra aplicación
+## 300 - Building Our Application
 
-See [README.md](./300/README.md)
+Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
