@@ -1,10 +1,10 @@
 渲染網
 
-# RenderNet AI
+# 渲染網人工智慧
 
 > 透過 AI 角色讓故事生動起來：釋放 AI 的力量，創建由您自己定制的虛擬人物主演的令人驚嘆的圖像和影片。
 
--   [DNS](./DNS.md)
+-   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主辦單位](./HOSTS.md)
@@ -25,12 +25,12 @@
 
 ## 200 - 要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
 ## 300 - 建立我們的應用程式
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - 結論
 
 看[README.md](./400/README.md)
