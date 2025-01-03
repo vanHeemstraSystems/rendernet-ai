@@ -13,7 +13,7 @@ Rendernetze
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Erstellen Sie sofort einzigartige Charaktere. Generieren Sie hyperrealistische Charaktere in Bildern und Videos und achten Sie dabei auf ein einheitliches Erscheinungsbild, einen einheitlichen Stil und einheitliche Funktionen
 
