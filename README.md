@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+rendernet-ai
+# RenderNet AI
 
-> Slugline
+> Bring stories alive with AI characters: Unlock the power of AI to create stunning images and videos starring your own custom-designed virtual humans.
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
