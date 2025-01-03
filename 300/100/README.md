@@ -6,6 +6,6 @@ You can create an AI character like Aitana Lopez, Lil Miquela or Lu Do Magalu in
 
 In our case, we'll be creating a Digital Twin, in other words a copy of ourself.
 
-
+![Willem_van_Heemstra](https://github.com/user-attachments/assets/c95081cf-13c6-4691-8ae1-29c4a6c7a450)
 
 MORE ...
