@@ -1,8 +1,8 @@
 रेंडरनेट्स
 
-# RenderNet AI
+# रेंडरनेट एआई
 
-> एआई पात्रों के साथ कहानियों को जीवंत बनाएं: अपने स्वयं के कस्टम-डिज़ाइन किए गए आभासी मनुष्यों द्वारा अभिनीत आश्चर्यजनक छवियां और वीडियो बनाने के लिए एआई की शक्ति को अनलॉक करें।
+> Bring stories alive with AI characters: Unlock the power of AI to create stunning images and videos starring your own custom-designed virtual humans.
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
@@ -17,7 +17,7 @@
 
 तुरन्त अद्वितीय पात्र बनाएँ। सुसंगत उपस्थिति, शैली और सुविधाओं को सुनिश्चित करते हुए छवियों और वीडियो में अति-यथार्थवादी वर्ण उत्पन्न करें
 
-Generated with [रित्र](https://app.rytr.me)
+के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
