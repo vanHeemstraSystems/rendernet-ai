@@ -26,6 +26,8 @@ Choose **Upload image**:
 
 ![Create_New_Character_003](https://github.com/user-attachments/assets/2b8b78dd-4d5f-4df5-b327-54be20f80099)
 
+As we have not yet uploaded our face, the ```Image asset library``` will not yet contain an image of our face. Choose **select a file from the folder** by clicking on the **+** sign to upload a new image.
 
+![Create_New_Character_004](https://github.com/user-attachments/assets/a1fb33db-11ea-4756-8026-b5e3aba6ea2e)
 
 MORE ...
