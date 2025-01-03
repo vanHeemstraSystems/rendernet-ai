@@ -52,6 +52,12 @@ After a couple of seconds, voila, Our Character is Ready!
 
 Click **Use this character**.
 
+If not already subscribed for a paid account, you may be prompted as follows:
+
+![Subscription_Plan_001](https://github.com/user-attachments/assets/db3c3c3c-e82f-410c-b77a-39a5d0fc7951)
+
+In our case, we will subscribe to the **Basic** subscription plan. Choose **Subscribe** from the **Basic** Plan.
+
 
 
 MORE ...
