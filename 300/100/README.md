@@ -2,6 +2,8 @@
 
 > Build a digital twin to create content for social media marketing
 
+See also "[Create an AI character with RenderNet](https://www.youtube.com/watch?v=wCbm9U2NQds)".
+
 You can create an AI character like Aitana Lopez, Lil Miquela or Lu Do Magalu in RenderNet by uploading a face, using the character-builder wizard to customize it, naming the character, and saving it for future use.
 
 In our case, we'll be creating a Digital Twin, in other words a copy of ourself.
