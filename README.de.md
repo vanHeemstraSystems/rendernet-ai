@@ -2,7 +2,7 @@ Rendernetze
 
 # RenderNet AI
 
-> Bring stories alive with AI characters: Unlock the power of AI to create stunning images and videos starring your own custom-designed virtual humans.
+> Erwecken Sie Geschichten mit KI-Charakteren zum Leben: Nutzen Sie die Kraft der KI, um atemberaubende Bilder und Videos mit Ihren eigenen, maßgeschneiderten virtuellen Menschen zu erstellen.
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
