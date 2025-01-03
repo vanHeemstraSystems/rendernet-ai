@@ -2,7 +2,7 @@
 
 # रेंडरनेट एआई
 
-> Bring stories alive with AI characters: Unlock the power of AI to create stunning images and videos starring your own custom-designed virtual humans.
+> एआई पात्रों के साथ कहानियों को जीवंत बनाएं: अपने स्वयं के कस्टम-डिज़ाइन किए गए आभासी मनुष्यों द्वारा अभिनीत आश्चर्यजनक छवियां और वीडियो बनाने के लिए एआई की शक्ति को अनलॉक करें।
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
@@ -13,7 +13,7 @@
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
-**कार्यकारी सारांश**
+**Executive Summary**
 
 तुरन्त अद्वितीय पात्र बनाएँ। सुसंगत उपस्थिति, शैली और सुविधाओं को सुनिश्चित करते हुए छवियों और वीडियो में अति-यथार्थवादी वर्ण उत्पन्न करें
 
@@ -21,7 +21,7 @@
 
 ## 100 - परिचय
 
-देखना[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
@@ -31,6 +31,6 @@
 
 देखना[README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
 देखना[README.md](./400/README.md)
