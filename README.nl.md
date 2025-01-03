@@ -2,7 +2,7 @@ repositorynaam
 
 # Naam van opslagplaats
 
-> Slaklijn
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
