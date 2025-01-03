@@ -14,7 +14,7 @@ rendernet-ai
 
 **Executive Summary**
 
-Text
+Create unique characters, instantly. Generate hyper-realistic characters in images and videos while ensuring consistent appearance, style and features
 
 Generated with [Rytr](https://app.rytr.me)
 
