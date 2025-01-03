@@ -8,14 +8,14 @@ renders
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
-Create unique characters, instantly. Generate hyper-realistic characters in images and videos while ensuring consistent appearance, style and features
+Crea personajes únicos, al instante. Genere personajes hiperrealistas en imágenes y videos al mismo tiempo que garantiza una apariencia, estilo y características consistentes.
 
 Generado con[ritr](https://app.rytr.me)
 
@@ -29,7 +29,7 @@ Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-See [README.md](./300/README.md)
+Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
