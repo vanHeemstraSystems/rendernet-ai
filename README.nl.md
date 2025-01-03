@@ -8,18 +8,18 @@ rendernetten
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
--   [Afbeeldingen](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
--   [Telemetrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Samenvatting**
 
 Creëer onmiddellijk unieke karakters. Genereer hyperrealistische karakters in afbeeldingen en video's en zorg tegelijkertijd voor een consistent uiterlijk, stijl en kenmerken
 
-Gegenereerd met[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
-## 100 - Inleiding
+## 100 - Introduction
 
 Zien[README.md](./100/README.md)
 
@@ -31,6 +31,6 @@ Zien[README.md](./200/README.md)
 
 Zien[README.md](./300/README.md)
 
-## 400 - Conclusie
+## 400 - Conclusion
 
 Zien[README.md](./400/README.md)
