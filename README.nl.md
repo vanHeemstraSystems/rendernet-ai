@@ -2,7 +2,7 @@ rendernetten
 
 # RenderNet AI
 
-> Bring stories alive with AI characters: Unlock the power of AI to create stunning images and videos starring your own custom-designed virtual humans.
+> Breng verhalen tot leven met AI-personages: ontgrendel de kracht van AI om verbluffende afbeeldingen en video's te maken met uw eigen, speciaal ontworpen virtuele mensen in de hoofdrol.
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -17,7 +17,7 @@ rendernetten
 
 Creëer onmiddellijk unieke karakters. Genereer hyperrealistische karakters in afbeeldingen en video's en zorg tegelijkertijd voor een consistent uiterlijk, stijl en kenmerken
 
-Gegenereerd met[Rytr](https://app.rytr.me)
+Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
