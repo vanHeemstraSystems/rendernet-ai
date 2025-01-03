@@ -46,4 +46,12 @@ We are limited to 10 characters as the length of a name for the character, hence
 
 Click **Save**.
 
+After a couple of seconds, voila, Our Character is Ready!
+
+![Create_New_Character_008](https://github.com/user-attachments/assets/e0718218-19f2-4015-b5a3-d435e7c158c4)
+
+Click **Use this character**.
+
+
+
 MORE ...
