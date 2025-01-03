@@ -1,4 +1,4 @@
-Rendernetze
+rendernet-ai
 
 # RenderNet AI
 
@@ -6,7 +6,7 @@ Rendernetze
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossar](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
@@ -15,7 +15,7 @@ Rendernetze
 
 **Zusammenfassung**
 
-Text
+Create unique characters, instantly. Generate hyper-realistic characters in images and videos while ensuring consistent appearance, style and features
 
 Erstellt mit[Ritr](https://app.rytr.me)
 
@@ -31,6 +31,6 @@ Sehen[README.md](./200/README.md)
 
 Sehen[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 – Fazit
 
 Sehen[README.md](./400/README.md)
