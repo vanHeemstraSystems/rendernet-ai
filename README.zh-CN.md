@@ -2,7 +2,7 @@
 
 # 渲染网人工智能
 
-> 通过 AI 角色让故事生动起来：释放 AI 的力量，创建由您自己定制的虚拟人物主演的令人惊叹的图像和视频。
+> Bring stories alive with AI characters: Unlock the power of AI to create stunning images and videos starring your own custom-designed virtual humans.
 
 -   [域名系统](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
