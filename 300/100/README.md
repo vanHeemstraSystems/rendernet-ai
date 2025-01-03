@@ -22,6 +22,10 @@ Pick a face, in our case our own face:
 
 ![Willem_van_Heemstra_Face](https://github.com/user-attachments/assets/ccccdc8a-8dd4-40d0-ba93-b122e5778181)
 
+Choose **Upload image**:
+
+![Create_New_Character_003](https://github.com/user-attachments/assets/2b8b78dd-4d5f-4df5-b327-54be20f80099)
+
 
 
 MORE ...
