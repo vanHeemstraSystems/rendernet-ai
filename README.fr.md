@@ -19,7 +19,7 @@ Créez des personnages uniques, instantanément. Générez des personnages hyper
 
 Généré avec[Ritr](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
