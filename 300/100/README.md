@@ -10,4 +10,10 @@ In our case, we'll be creating a Digital Twin, in other words a copy of ourself.
 
 Open the RenderNet AI application at https://app.rendernet.ai/ and login with your account.
 
+Choose **Create new** when selecting a character:
+
+![Create_New_Character_001](https://github.com/user-attachments/assets/98f3a6d4-fe73-4c45-80e5-55ad98fbde13)
+
+
+
 MORE ...
