@@ -15,13 +15,13 @@
 
 **执行摘要**
 
-Create unique characters, instantly. Generate hyper-realistic characters in images and videos while ensuring consistent appearance, style and features
+立即创建独特的角色。在图像和视频中生成超现实的角色，同时确保一致的外观、风格和功能
 
 生成于[里特尔](https://app.rytr.me)
 
 ## 100 - 简介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
